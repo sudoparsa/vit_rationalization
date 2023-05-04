@@ -1,0 +1,295 @@
+Loading pretrained weights...
+Loaded vit_small_patch16_224_in21k with 21665664 parameters.
+vit_encoder.cls_token
+vit_encoder.pos_embed
+vit_encoder.patch_embed.proj.weight
+vit_encoder.patch_embed.proj.bias
+vit_encoder.blocks.0.norm1.weight
+vit_encoder.blocks.0.norm1.bias
+vit_encoder.blocks.0.attn.qkv.weight
+vit_encoder.blocks.0.attn.qkv.bias
+vit_encoder.blocks.0.attn.proj.weight
+vit_encoder.blocks.0.attn.proj.bias
+vit_encoder.blocks.0.norm2.weight
+vit_encoder.blocks.0.norm2.bias
+vit_encoder.blocks.0.mlp.fc1.weight
+vit_encoder.blocks.0.mlp.fc1.bias
+vit_encoder.blocks.0.mlp.fc2.weight
+vit_encoder.blocks.0.mlp.fc2.bias
+vit_encoder.blocks.1.norm1.weight
+vit_encoder.blocks.1.norm1.bias
+vit_encoder.blocks.1.attn.qkv.weight
+vit_encoder.blocks.1.attn.qkv.bias
+vit_encoder.blocks.1.attn.proj.weight
+vit_encoder.blocks.1.attn.proj.bias
+vit_encoder.blocks.1.norm2.weight
+vit_encoder.blocks.1.norm2.bias
+vit_encoder.blocks.1.mlp.fc1.weight
+vit_encoder.blocks.1.mlp.fc1.bias
+vit_encoder.blocks.1.mlp.fc2.weight
+vit_encoder.blocks.1.mlp.fc2.bias
+vit_encoder.blocks.2.norm1.weight
+vit_encoder.blocks.2.norm1.bias
+vit_encoder.blocks.2.attn.qkv.weight
+vit_encoder.blocks.2.attn.qkv.bias
+vit_encoder.blocks.2.attn.proj.weight
+vit_encoder.blocks.2.attn.proj.bias
+vit_encoder.blocks.2.norm2.weight
+vit_encoder.blocks.2.norm2.bias
+vit_encoder.blocks.2.mlp.fc1.weight
+vit_encoder.blocks.2.mlp.fc1.bias
+vit_encoder.blocks.2.mlp.fc2.weight
+vit_encoder.blocks.2.mlp.fc2.bias
+vit_encoder.blocks.3.norm1.weight
+vit_encoder.blocks.3.norm1.bias
+vit_encoder.blocks.3.attn.qkv.weight
+vit_encoder.blocks.3.attn.qkv.bias
+vit_encoder.blocks.3.attn.proj.weight
+vit_encoder.blocks.3.attn.proj.bias
+vit_encoder.blocks.3.norm2.weight
+vit_encoder.blocks.3.norm2.bias
+vit_encoder.blocks.3.mlp.fc1.weight
+vit_encoder.blocks.3.mlp.fc1.bias
+vit_encoder.blocks.3.mlp.fc2.weight
+vit_encoder.blocks.3.mlp.fc2.bias
+vit_encoder.blocks.4.norm1.weight
+vit_encoder.blocks.4.norm1.bias
+vit_encoder.blocks.4.attn.qkv.weight
+vit_encoder.blocks.4.attn.qkv.bias
+vit_encoder.blocks.4.attn.proj.weight
+vit_encoder.blocks.4.attn.proj.bias
+vit_encoder.blocks.4.norm2.weight
+vit_encoder.blocks.4.norm2.bias
+vit_encoder.blocks.4.mlp.fc1.weight
+vit_encoder.blocks.4.mlp.fc1.bias
+vit_encoder.blocks.4.mlp.fc2.weight
+vit_encoder.blocks.4.mlp.fc2.bias
+vit_encoder.blocks.5.norm1.weight
+vit_encoder.blocks.5.norm1.bias
+vit_encoder.blocks.5.attn.qkv.weight
+vit_encoder.blocks.5.attn.qkv.bias
+vit_encoder.blocks.5.attn.proj.weight
+vit_encoder.blocks.5.attn.proj.bias
+vit_encoder.blocks.5.norm2.weight
+vit_encoder.blocks.5.norm2.bias
+vit_encoder.blocks.5.mlp.fc1.weight
+vit_encoder.blocks.5.mlp.fc1.bias
+vit_encoder.blocks.5.mlp.fc2.weight
+vit_encoder.blocks.5.mlp.fc2.bias
+vit_encoder.blocks.6.norm1.weight
+vit_encoder.blocks.6.norm1.bias
+vit_encoder.blocks.6.attn.qkv.weight
+vit_encoder.blocks.6.attn.qkv.bias
+vit_encoder.blocks.6.attn.proj.weight
+vit_encoder.blocks.6.attn.proj.bias
+vit_encoder.blocks.6.norm2.weight
+vit_encoder.blocks.6.norm2.bias
+vit_encoder.blocks.6.mlp.fc1.weight
+vit_encoder.blocks.6.mlp.fc1.bias
+vit_encoder.blocks.6.mlp.fc2.weight
+vit_encoder.blocks.6.mlp.fc2.bias
+vit_encoder.blocks.7.norm1.weight
+vit_encoder.blocks.7.norm1.bias
+vit_encoder.blocks.7.attn.qkv.weight
+vit_encoder.blocks.7.attn.qkv.bias
+vit_encoder.blocks.7.attn.proj.weight
+vit_encoder.blocks.7.attn.proj.bias
+vit_encoder.blocks.7.norm2.weight
+vit_encoder.blocks.7.norm2.bias
+vit_encoder.blocks.7.mlp.fc1.weight
+vit_encoder.blocks.7.mlp.fc1.bias
+vit_encoder.blocks.7.mlp.fc2.weight
+vit_encoder.blocks.7.mlp.fc2.bias
+vit_encoder.blocks.8.norm1.weight
+vit_encoder.blocks.8.norm1.bias
+vit_encoder.blocks.8.attn.qkv.weight
+vit_encoder.blocks.8.attn.qkv.bias
+vit_encoder.blocks.8.attn.proj.weight
+vit_encoder.blocks.8.attn.proj.bias
+vit_encoder.blocks.8.norm2.weight
+vit_encoder.blocks.8.norm2.bias
+vit_encoder.blocks.8.mlp.fc1.weight
+vit_encoder.blocks.8.mlp.fc1.bias
+vit_encoder.blocks.8.mlp.fc2.weight
+vit_encoder.blocks.8.mlp.fc2.bias
+vit_encoder.blocks.9.norm1.weight
+vit_encoder.blocks.9.norm1.bias
+vit_encoder.blocks.9.attn.qkv.weight
+vit_encoder.blocks.9.attn.qkv.bias
+vit_encoder.blocks.9.attn.proj.weight
+vit_encoder.blocks.9.attn.proj.bias
+vit_encoder.blocks.9.norm2.weight
+vit_encoder.blocks.9.norm2.bias
+vit_encoder.blocks.9.mlp.fc1.weight
+vit_encoder.blocks.9.mlp.fc1.bias
+vit_encoder.blocks.9.mlp.fc2.weight
+vit_encoder.blocks.9.mlp.fc2.bias
+vit_encoder.blocks.10.norm1.weight
+vit_encoder.blocks.10.norm1.bias
+vit_encoder.blocks.10.attn.qkv.weight
+vit_encoder.blocks.10.attn.qkv.bias
+vit_encoder.blocks.10.attn.proj.weight
+vit_encoder.blocks.10.attn.proj.bias
+vit_encoder.blocks.10.norm2.weight
+vit_encoder.blocks.10.norm2.bias
+vit_encoder.blocks.10.mlp.fc1.weight
+vit_encoder.blocks.10.mlp.fc1.bias
+vit_encoder.blocks.10.mlp.fc2.weight
+vit_encoder.blocks.10.mlp.fc2.bias
+vit_encoder.blocks.11.norm1.weight
+vit_encoder.blocks.11.norm1.bias
+vit_encoder.blocks.11.attn.qkv.weight
+vit_encoder.blocks.11.attn.qkv.bias
+vit_encoder.blocks.11.attn.proj.weight
+vit_encoder.blocks.11.attn.proj.bias
+vit_encoder.blocks.11.norm2.weight
+vit_encoder.blocks.11.norm2.bias
+vit_encoder.blocks.11.mlp.fc1.weight
+vit_encoder.blocks.11.mlp.fc1.bias
+vit_encoder.blocks.11.mlp.fc2.weight
+vit_encoder.blocks.11.mlp.fc2.bias
+vit_encoder.norm.weight
+vit_encoder.norm.bias
+generator.linear.weight
+generator.linear.bias
+generator.enc_layers.0.self_attn.in_proj_weight
+generator.enc_layers.0.self_attn.in_proj_bias
+generator.enc_layers.0.self_attn.out_proj.weight
+generator.enc_layers.0.self_attn.out_proj.bias
+generator.enc_layers.0.linear1.weight
+generator.enc_layers.0.linear1.bias
+generator.enc_layers.0.linear2.weight
+generator.enc_layers.0.linear2.bias
+generator.enc_layers.0.norm1.weight
+generator.enc_layers.0.norm1.bias
+generator.enc_layers.0.norm2.weight
+generator.enc_layers.0.norm2.bias
+generator.enc_layers.1.self_attn.in_proj_weight
+generator.enc_layers.1.self_attn.in_proj_bias
+generator.enc_layers.1.self_attn.out_proj.weight
+generator.enc_layers.1.self_attn.out_proj.bias
+generator.enc_layers.1.linear1.weight
+generator.enc_layers.1.linear1.bias
+generator.enc_layers.1.linear2.weight
+generator.enc_layers.1.linear2.bias
+generator.enc_layers.1.norm1.weight
+generator.enc_layers.1.norm1.bias
+generator.enc_layers.1.norm2.weight
+generator.enc_layers.1.norm2.bias
+generator.enc_layers.2.self_attn.in_proj_weight
+generator.enc_layers.2.self_attn.in_proj_bias
+generator.enc_layers.2.self_attn.out_proj.weight
+generator.enc_layers.2.self_attn.out_proj.bias
+generator.enc_layers.2.linear1.weight
+generator.enc_layers.2.linear1.bias
+generator.enc_layers.2.linear2.weight
+generator.enc_layers.2.linear2.bias
+generator.enc_layers.2.norm1.weight
+generator.enc_layers.2.norm1.bias
+generator.enc_layers.2.norm2.weight
+generator.enc_layers.2.norm2.bias
+generator.enc_layers.3.self_attn.in_proj_weight
+generator.enc_layers.3.self_attn.in_proj_bias
+generator.enc_layers.3.self_attn.out_proj.weight
+generator.enc_layers.3.self_attn.out_proj.bias
+generator.enc_layers.3.linear1.weight
+generator.enc_layers.3.linear1.bias
+generator.enc_layers.3.linear2.weight
+generator.enc_layers.3.linear2.bias
+generator.enc_layers.3.norm1.weight
+generator.enc_layers.3.norm1.bias
+generator.enc_layers.3.norm2.weight
+generator.enc_layers.3.norm2.bias
+generator.linear2.weight
+generator.linear2.bias
+generator_fc1.0.weight
+generator_fc1.0.bias
+generator_fc2.weight
+generator_fc2.bias
+classifier_head.0.weight
+classifier_head.0.bias
+classifier_head.2.weight
+classifier_head.2.bias
+patch_encoder.layers.0.weight
+patch_encoder.layers.0.bias
+patch_encoder.layers.1.0.weight
+patch_encoder.layers.1.0.bias
+patch_encoder.fc.weight
+patch_encoder.fc.bias
+224
+224
+=========================
+epoch: 0
+=========================
+----> [Train] Total iteration #0: inv acc: 0.8929, inv loss: 0.0031 var loss: 0.00007771.
+----> [Eval] inv acc: 0.8295.
+=========================
+epoch: 1
+=========================
+----> [Train] Total iteration #1: inv acc: 0.9899, inv loss: 0.0003 var loss: 0.00001088.
+----> [Eval] inv acc: 0.8878.
+=========================
+epoch: 2
+=========================
+----> [Train] Total iteration #2: inv acc: 0.9927, inv loss: 0.0002 var loss: 0.00000659.
+----> [Eval] inv acc: 0.8697.
+=========================
+epoch: 3
+=========================
+----> [Train] Total iteration #3: inv acc: 0.9914, inv loss: 0.0002 var loss: 0.00000749.
+----> [Eval] inv acc: 0.8821.
+224
+224
+=========================
+epoch: 0
+=========================
+----> [Train] Total iteration #0: inv acc: 0.6128, inv loss: 0.0396 var loss: 0.00415410 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0173.
+=========================
+epoch: 1
+=========================
+----> [Train] Total iteration #1: inv acc: 0.8129, inv loss: 0.0208 var loss: 0.00561164 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0124.
+=========================
+epoch: 2
+=========================
+----> [Train] Total iteration #2: inv acc: 0.8227, inv loss: 0.0168 var loss: 0.00559160 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0151.
+=========================
+epoch: 3
+=========================
+----> [Train] Total iteration #3: inv acc: 0.7707, inv loss: 0.0227 var loss: 0.00526756 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0127.
+=========================
+epoch: 4
+=========================
+----> [Train] Total iteration #4: inv acc: 0.5752, inv loss: 0.0442 var loss: 0.00411217 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0094.
+=========================
+epoch: 5
+=========================
+----> [Train] Total iteration #5: inv acc: 0.7381, inv loss: 0.0351 var loss: 0.00450096 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0118.
+=========================
+epoch: 6
+=========================
+----> [Train] Total iteration #6: inv acc: 0.6201, inv loss: 0.0429 var loss: 0.00297575 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0287.
+=========================
+epoch: 7
+=========================
+----> [Train] Total iteration #7: inv acc: 0.4605, inv loss: 0.0518 var loss: 0.00165466 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0216.
+=========================
+epoch: 8
+=========================
+----> [Train] Total iteration #8: inv acc: 0.2800, inv loss: 0.0603 var loss: 0.00084988 sparsity: 80.000000.
+----> [Eval] inv acc: 0.0790.
+=========================
+epoch: 9
+=========================
+----> [Train] Total iteration #9: inv acc: 0.1491, inv loss: 0.0677 var loss: 0.00046927 sparsity: 80.000000.
+----> [Eval] inv acc: 0.1051.
+=========================
+epoch: 10
+=========================
